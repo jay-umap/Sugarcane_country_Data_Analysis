@@ -12,9 +12,9 @@ The dataset contains information about sugarcane production in various countries
 ## Data Cleaning
 The initial data cleaning steps include:
 
-- 1. Removing unwanted characters (e.g., commas, dots) from numeric columns.
-- 2. Dropping irrelevant columns.
-- 3. Future warnings during data cleaning are acknowledged but are not significant to the analysis.
+- Removing unwanted characters (e.g., commas, dots) from numeric columns.
+- Dropping irrelevant columns.
+- Future warnings during data cleaning are acknowledged but are not significant to the analysis.
 
 ## Univariate Analysis
 The univariate analysis examines individual columns separately. It includes visualizations such as bar plots and distribution plots to understand the data distribution and identify outliers.
